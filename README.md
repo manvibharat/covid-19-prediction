@@ -3,7 +3,7 @@
 plotly 
 pandas
 seaborn
---
+
 ## Part 1
 Predicting covid cases using various time series model such as ARIMA etc.
 
