@@ -4,7 +4,8 @@
 Hypothesis Testing (informal) https://youtu.be/ZzeXCKd5a18
 Time series using python https://www.kaggle.com/kashnitsky/topic-9-part-1-time-series-analysis-in-python
 
-Book on time series analysis - https://www.wiley.com/en-us/Time+Series+Analysis%3A+Forecasting+and+Control%2C+5th+Edition-p-9781118675021 (many other books are also available)
+Book on time series analysis -  
+Time series analysis and its applications - (https://www.stat.pitt.edu/stoffer/tsa4/tsa4.pdf)
 
 
 https://www.kaggle.com/kashnitsky/topic-9-part-1-time-series-analysis-in-python  
