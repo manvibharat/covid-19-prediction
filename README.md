@@ -2,26 +2,18 @@
 
 ## Resources  
 Hypothesis Testing (informal) https://youtu.be/ZzeXCKd5a18
-Time series using python https://www.kaggle.com/kashnitsky/topic-9-part-1-time-series-analysis-in-python
 
 Book on time series analysis -  
 Time series analysis and its applications - (https://www.stat.pitt.edu/stoffer/tsa4/tsa4.pdf)
 
+Good video series on Time series analysis  
+https://www.youtube.com/watch?v=DeORzP0go5I&list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3
 
-https://www.kaggle.com/kashnitsky/topic-9-part-1-time-series-analysis-in-python  
-
-https://medium.com/@stallonejacob/time-series-forecast-a-basic-introduction-using-python-414fcb963000  
-
-https://medium.com/@stallonejacob/time-series-forecast-a-basic-introduction-using-python-414fcb963000
 ## Packages 
 plotly   
 pandas  
-seaborn  
+statsmodels
+fbprophet
 
 ## Part 1
-Predicting covid cases using various time series model such as ARIMA etc.
-
-## Part 2
-Using a Neural network to fit a SIR model to the data and make prediction more reliable.
-
-## 
+Predicting covid cases using series model such as ARIMA and Prophet (Facebook's) 
